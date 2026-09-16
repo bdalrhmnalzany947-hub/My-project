@@ -1,0 +1,19 @@
+div{
+    margin: 50px ;
+    background-color: cyan;
+    text-align: center;
+    width: 80%;
+    margin:auto;
+    border-radius: 50%;
+    font-weight: bold;
+    height: 500px;
+    display: flex;
+    /* align-content: center; */
+    justify-content: center;
+    align-items: center;
+
+}
+pre{
+    
+    
+}
